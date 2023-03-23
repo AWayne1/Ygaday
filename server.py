@@ -4,6 +4,7 @@ import json
 import random
 
 app = Flask(__name__)
+# тест
 
 logging.basicConfig(level=logging.INFO)
 
